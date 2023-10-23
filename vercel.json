@@ -2,7 +2,7 @@
     "redirects": [
         {
             "source": "/:path(.*)",
-            "destination": "https:///FRAMER_DOMAIN/:path",
+            "destination": "https://FRAMER_DOMAIN/:path",
             "permanent": false
         }
     ]
